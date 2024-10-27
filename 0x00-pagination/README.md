@@ -1,0 +1,1 @@
+This project is a simple backend setup to explore pagination concepts. Pagination is essential for managing large data sets efficiently by dividing results into pages. This project covers how to implement and test basic pagination in API endpoints.
