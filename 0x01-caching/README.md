@@ -1,0 +1,1 @@
+This project focuses on implementing caching mechanisms in Python to improve efficiency by storing and reusing the results of expensive function calls or data retrieval operations. By caching results, we can save time and resources, especially in situations where repeated access to data is common.
